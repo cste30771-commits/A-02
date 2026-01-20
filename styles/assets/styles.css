@@ -462,6 +462,7 @@ display: flex;
 max-width: 150px;
 
 max-height: 150px;
+animation: none;
     }
     
     .s1-bc{
